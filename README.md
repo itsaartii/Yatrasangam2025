@@ -2,7 +2,7 @@
 
 A modern web application for cultural event planning and management, built with Vue.js and powered by cutting-edge technologies.
 
-## ✨ Features
+## ✨ Features :
 
 - 🌐 Multi-language support
 - 🎨 Beautiful, responsive UI
