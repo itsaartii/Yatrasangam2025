@@ -2,6 +2,8 @@
 
 A modern web application for cultural event planning and management, built with Vue.js and powered by cutting-edge technologies.
 
+LINK : https://yatrasangam2025.web.app/signup
+
 ## ✨ Features
 
 - 🌐 Multi-language support
